@@ -13,5 +13,5 @@ Case: Use to perform multiple instructions
 lastly yo run the project don't for to change the file permissions using chmod 744.
 
 And Run the each program using shell script as 
-./bash name/script
+./bashname
 
